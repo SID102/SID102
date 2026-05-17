@@ -238,8 +238,15 @@ Mindset:
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</p>
+<a href="https://leetcode.com/u/SID_15/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
+</a>
 
+<a href="https://www.naukri.com/mnjuser/profile">
+  <img src="https://img.icons8.com/color/48/naukri.png"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
