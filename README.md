@@ -10,39 +10,43 @@ $ booting siddharth.exe ...
 [✓] Optimizing performance
 [✓] Starting AI modules
 
------------------------------------
+------------------------------------------------
 
 👨‍💻 USER: siddharth
 💻 ROLE: Backend Engineer
 ⚡ STATUS: BUILDING
 🧠 MODE: FOCUSED
 
------------------------------------
+------------------------------------------------
 
 TECH_STACK = {
+
    "Java",
    "C++",
    "Python",
    "Agentic AI",
    "Kafka",
    "Spark",
-   "Quarkus"
+   "Quarkus",
    "Spring Boot",
    "Cassandra",
    "Docker",
    "Linux"
+
 };
 
------------------------------------
+------------------------------------------------
 
 ACHIEVEMENTS = {
+
    "1700+ LeetCode Problems Solved",
    "Scalable Microservices Built",
    "Performance Optimization Expert",
    "Distributed Systems Enthusiast"
+
 };
 
------------------------------------
+------------------------------------------------
 
 while(alive) {
 
@@ -55,7 +59,7 @@ while(alive) {
 
 }
 
------------------------------------
+------------------------------------------------
 
 SYSTEM STATUS
 
@@ -63,10 +67,9 @@ backend_services      [ RUNNING ]
 problem_solving       [ ACTIVE ]
 coffee_level          [ MAXIMUM ]
 motivation            [ UNLIMITED ]
-bugs_fixed            [ COUNTLESS ]
 learning_mode         [ ALWAYS ON ]
 
------------------------------------
+------------------------------------------------
 
 $ git commit -m "Building the future one commit at a time"
 
@@ -74,6 +77,26 @@ status: unstoppable 🚀
 ```
 
 </details>
+
+---
+
+<p align="center">
+
+```bash
+███████╗██╗██████╗ 
+██╔════╝██║██╔══██╗
+███████╗██║██║  ██║
+╚════██║██║██║  ██║
+███████║██║██████╔╝
+╚══════╝╚═╝╚═════╝ 
+
+> INITIALIZING siddharth.exe ...
+> Backend Engineer | AI Builder | Problem Solver
+```
+
+</p>
+
+---
 
 <h1 align="center">⚡ Siddharth ⚡</h1>
 
@@ -86,34 +109,50 @@ Building scalable systems & intelligent applications 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&speed=100&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Python+%7C+Agentic+AI;Backend+Engineer;Microservices+%7C+Kafka+%7C+Spark;1700%2B+LeetCode+Problems;Building+Scalable+Systems;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&speed=100&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+C%2B%2B+%7C+Python+%7C+Agentic+AI;Backend+Engineer;Microservices+%7C+Kafka+%7C+Spark;1700%2B+LeetCode+Problems;Building+Scalable+Systems;Always+Learning+Always+Building" />
 </p>
-
----
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR4Y2V6M2xzd2p4YTVlY3h2YmJ2a2V1a2I0dHV4cDFoY2x3eG9jNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=SID102&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,spring,kafka,docker,linux,git,mongodb,postgres" />
+
+</p>
+
+---
+
+# 🧠 Current Mission
+
+```bash
+> Building scalable backend systems
+> Exploring Agentic AI workflows
+> Optimizing distributed architectures
+> Solving hard problems for fun
+```
+
+---
+
+# 🚀 Engineering Mindset
 
 ```cpp
 class Siddharth {
 
-    vector<string> techStack = {
-         "Java",
-         "C++",
-         "Python",
-         "Agentic AI",
-         "Kafka",
-         "Spark",
-         "Quarkus"
-         "Spring Boot",
-         "Cassandra",
-         "Docker"
+    vector<string> focus = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "Agentic AI",
+        "Performance Optimization",
+        "Microservices"
     };
 
-    void dailyRoutine() {
+    void life() {
 
         while(!success) {
 
@@ -121,8 +160,92 @@ class Siddharth {
             build();
             optimize();
             debug();
-            deploy();
+            scale();
             repeat();
         }
     }
 };
+```
+
+---
+
+# 🏆 Achievements
+
+```yaml
+LeetCode:
+  Problems_Solved: 1700+
+  Focus: "DSA + Problem Solving"
+
+Engineering:
+  Expertise:
+    - Distributed Systems
+    - Backend Optimization
+    - High Performance APIs
+    - Scalable Microservices
+
+Mindset:
+  - Learn
+  - Build
+  - Improve
+  - Repeat
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SID102&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SID102&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID102&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/siddharth-singh15/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:siddharthsingh002018@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/SID102">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+```console
+> Code. Build. Optimize. Repeat.
+```
+
+</p>
