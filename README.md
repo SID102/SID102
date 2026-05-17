@@ -192,6 +192,16 @@ Mindset:
 
 ---
 
+# ⚡ Core Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
+
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -200,24 +210,6 @@ Mindset:
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SID102&theme=radical&hide_border=true"/>
 
-</p>
-
----
-
-# 🚀 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID102&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -239,14 +231,11 @@ Mindset:
 </a>
 
 <a href="https://leetcode.com/u/SID_15/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48"/>
-</a>
-
-<a href="https://www.naukri.com/mnjuser/profile">
-  <img src="https://img.icons8.com/color/48/naukri.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
 </a>
 
 </p>
+
 ---
 
 <p align="center">
