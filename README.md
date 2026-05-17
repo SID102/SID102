@@ -1,38 +1,76 @@
-<h1 align="center">⚡ Siddharth ⚡</h1>
+<details>
+<summary>⚡ system_logs.sh</summary>
 
-<h3 align="center">
-Backend Engineer • AI Builder • Problem Solver
-</h3>
+```bash
+$ booting siddharth.exe ...
 
-<p align="center">
-Building scalable systems & intelligent applications 🚀
-</p>
+[✓] Loading developer profile
+[✓] Initializing backend systems
+[✓] Connecting distributed services
+[✓] Optimizing performance
+[✓] Starting AI modules
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Python+%7C+Agentic+AI;Backend+Engineer;Microservices+%7C+Kafka+%7C+Spark;1700%2B+LeetCode+Problems;Building+Scalable+Systems" />
-</p>
+-----------------------------------
 
----
+👨‍💻 USER: siddharth
+💻 ROLE: Backend Engineer
+⚡ STATUS: BUILDING
+🧠 MODE: FOCUSED
 
-```cpp
-class Siddharth {
-    
-    vector<string> techStack = {
-        "C++",
-        "Python",
-        "Agentic AI",
-        "Kafka",
-        "Spark",
-        "Spring Boot",
-        "Cassandra"
-    };
+-----------------------------------
 
-    void life() {
-        while(!success) {
-            learn();
-            build();
-            optimize();
-            repeat();
-        }
-    }
+TECH_STACK = {
+   "Java",
+   "C++",
+   "Python",
+   "Agentic AI",
+   "Kafka",
+   "Spark",
+   "Quarkus"
+   "Spring Boot",
+   "Cassandra",
+   "Docker",
+   "Linux"
 };
+
+-----------------------------------
+
+ACHIEVEMENTS = {
+   "1700+ LeetCode Problems Solved",
+   "Scalable Microservices Built",
+   "Performance Optimization Expert",
+   "Distributed Systems Enthusiast"
+};
+
+-----------------------------------
+
+while(alive) {
+
+    learn();
+    build();
+    optimize();
+    debug();
+    deploy();
+    repeat();
+
+}
+
+-----------------------------------
+
+SYSTEM STATUS
+
+backend_services      [ RUNNING ]
+problem_solving       [ ACTIVE ]
+coffee_level          [ MAXIMUM ]
+motivation            [ UNLIMITED ]
+bugs_fixed            [ COUNTLESS ]
+learning_mode         [ ALWAYS ON ]
+
+-----------------------------------
+
+$ git commit -m "Building the future one commit at a time"
+
+status: unstoppable 🚀
+```
+
+</details>
