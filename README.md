@@ -9,7 +9,7 @@ Building scalable systems & intelligent applications 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Python+%7C+Agentic+AI;Backend+Engineer;Microservices+%7C+Kafka+%7C+Spark;1700%2B+LeetCode+Problems;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Python+%7C+Agentic+AI;Backend+Engineer;Microservices+%7C+Kafka+%7C+Spark;1700%2B+LeetCode+Problems;Building+Scalable+Systems" />
 </p>
 
 ---
